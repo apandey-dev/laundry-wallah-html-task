@@ -11,4 +11,5 @@ A basic laundry service webpage created using pure HTML. It includes information
 - `README.md`
 
 ### Screenshots
-Screenshots will be added here.
+
+![Project Screenshot](screenshots/02.png)
