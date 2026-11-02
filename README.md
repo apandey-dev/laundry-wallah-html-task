@@ -51,6 +51,6 @@ To build a complete, semantic HTML webpage for a laundry service business withou
 - Matches the expected output in `02.png`.
 
 ## 9. Deployment Information
-- **GitHub Repository:** Private repository `laundry-wallah-html-task`
+- **GitHub Repository:** [laundry-wallah-html-task](https://github.com/apandey-dev/laundry-wallah-html-task) (Private)
 - **Deployment Platform:** Vercel
 - **Live URL:** To be updated after deployment
